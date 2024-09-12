@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the line of featurex edited on main
+=======
+This is the first line of the file edited on feature-branch
+>>>>>>> ce698a4 (edited featurex on feature-branch)
